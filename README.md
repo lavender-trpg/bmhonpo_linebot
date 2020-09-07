@@ -1,2 +1,6 @@
-# bmhonpo_linebot
-爆発本舗LineBotのソースコード　Driveで共有されたGASのプロジェクトが見られなかったので
+# 爆発本舗LineBot
+
+
+GoogleAppScriptのプロジェクトが編集権限では表示できなかったので閲覧用＋バージョン管理用にGithubを使用。
+
+
