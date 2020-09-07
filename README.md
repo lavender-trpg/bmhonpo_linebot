@@ -1,0 +1,2 @@
+# bmhonpo_linebot
+爆発本舗LineBotのソースコード　Driveで共有されたGASのプロジェクトが見られなかったので
